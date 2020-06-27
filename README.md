@@ -1,0 +1,1 @@
+This is web application for Rock-Paper-Scissors.
